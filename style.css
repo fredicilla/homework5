@@ -5,6 +5,7 @@
 #bold{
            font-weight:bold, ;
            font-style: italic;
+           font-family: 'Courier New', Courier, monospace;
 }
 #strat{
           color: #6a5acd;
